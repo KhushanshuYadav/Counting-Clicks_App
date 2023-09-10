@@ -1,2 +1,2 @@
 # Counting-Clicks_App
-A Kotlin android application 
+A Kotlin android application counting clicks made on button
